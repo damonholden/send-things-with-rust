@@ -9,3 +9,9 @@ without relying on other services.
 This project was initially created following the guide in the book for
 building a single-threaded web server in Rust. [The book can be found
 here.](https://doc.rust-lang.org/book/ch20-01-single-threaded.html)
+
+## log
+
+### 2021-01-03
+
+started and progressed up until [this section of the book](https://doc.rust-lang.org/book/ch20-01-single-threaded.html#a-touch-of-refactoring).
